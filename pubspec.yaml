@@ -1,0 +1,14 @@
+name: test_library_example
+description: A sample command-line application
+#dependencies:
+#  unittest: any
+
+name: test_library_example
+version: 0.0.1
+author: Thierry Bayi <thierrybayi@gmail.com>
+description: An example of how to use test_library, a library for educational purposes.
+homepage: http://ondart.me/
+dependencies:
+  test_library:
+    git: git://github.com/thierrybayi/test_library.git
+    
