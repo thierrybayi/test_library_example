@@ -4,7 +4,7 @@ packages:
   test_library:
     description:
       ref: null
-      resolved-ref: "243f5a7e988497d46eb773bce07c85d81715cb1d"
+      resolved-ref: "037bd9a3488b4f81677a6832bacf07fb86c68ecb"
       url: "git://github.com/thierrybayi/test_library.git"
     source: git
     version: "0.0.1"
